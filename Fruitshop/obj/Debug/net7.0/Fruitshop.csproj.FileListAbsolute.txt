@@ -1,0 +1,14 @@
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\bin\Debug\net7.0\Fruitshop.exe
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\bin\Debug\net7.0\Fruitshop.deps.json
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\bin\Debug\net7.0\Fruitshop.runtimeconfig.json
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\bin\Debug\net7.0\Fruitshop.dll
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\bin\Debug\net7.0\Fruitshop.pdb
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\Fruitshop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\Fruitshop.AssemblyInfoInputs.cache
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\Fruitshop.AssemblyInfo.cs
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\Fruitshop.csproj.CoreCompileInputs.cache
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\Fruitshop.dll
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\refint\Fruitshop.dll
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\Fruitshop.pdb
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\Fruitshop.genruntimeconfig.cache
+E:\Joakim\Documents\VSCodeprogram\Fruitshop\Fruitshop\obj\Debug\net7.0\ref\Fruitshop.dll
