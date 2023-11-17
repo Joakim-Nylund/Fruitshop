@@ -7,7 +7,7 @@ using static System.Convert;
 
 GroupBy för att skriva ut?? Lambda för att definiera kriterier och sen .dictionary?
 
-
+Var formatrows = Enumerable.Range(arg1,arg2).select(index=>(2 ternaries)
 
 A customer can choose any number of fruits to buy.
 Calculate the total cost.
