@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Joakims inloggning\\.nuget\\packages\\": {}
+    "C:\\Users\\Student\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Joakim\\Documents\\VSCodeprogram\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
       "projectName": "Fruitshop",
-      "projectPath": "E:\\Joakim\\Documents\\VSCodeprogram\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
-      "packagesPath": "C:\\Users\\Joakims inloggning\\.nuget\\packages\\",
-      "outputPath": "E:\\Joakim\\Documents\\VSCodeprogram\\Fruitshop\\Fruitshop\\obj\\",
+      "projectPath": "C:\\Users\\Student\\source\\repos\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\source\\repos\\Fruitshop\\Fruitshop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joakims inloggning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

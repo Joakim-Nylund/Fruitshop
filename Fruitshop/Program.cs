@@ -102,3 +102,9 @@ ReadKey();
 // int twoCoin;
 // int oneCoin;
 // int[] billsAndCoin = new int[8];
+
+
+//for printing to console - var priceMenu = Enumerable(0, maxLength);  
+//later, another var printPriceMenu = priceMenu.Select(priceMenu => {priceMenu.Item1} {priceMenu.Item2}").ToList(); )
+//string.Join(environment.NewLine, priceMenu)
+//Write($"randomWords{variableName, -int} \t
