@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {}
+    "C:\\Users\\Joakims inloggning\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
+      "projectUniqueName": "E:\\Joakim\\Documents\\VSCodeprogram\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
       "projectName": "Fruitshop",
-      "projectPath": "C:\\Users\\Student\\source\\repos\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\source\\repos\\Fruitshop\\Fruitshop\\obj\\",
+      "projectPath": "E:\\Joakim\\Documents\\VSCodeprogram\\Fruitshop\\Fruitshop\\Fruitshop.csproj",
+      "packagesPath": "C:\\Users\\Joakims inloggning\\.nuget\\packages\\",
+      "outputPath": "E:\\Joakim\\Documents\\VSCodeprogram\\Fruitshop\\Fruitshop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Joakims inloggning\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
