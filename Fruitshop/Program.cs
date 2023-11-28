@@ -10,6 +10,41 @@ Calculate the total cost.
 The customer can pay in any combination of bills and coins.
 Calculate the least amount of bills and coins needed for the change
 Return the number of different bills and coins required
+
+
+
+ConsoleGUI library: this could 
+
+using ConsoleGUI;
+using ConsoleGUI.Controls;
+using ConsoleGUI.Input;
+
+
+EX///:
+
+    static void Main()
+    {
+        var window = new ConsoleWindow();
+        var button = new Button { Left = 5, Top = 5, Text = "Click me" };
+
+        button.Click += (sender, args) =>
+        {
+            Console.WriteLine("Button clicked!");
+        };
+
+        window.Add(button);
+        window.Render();
+
+        while (true)
+        {
+            var input = ConsoleInput.ReadKey();
+            window.HandleInput(input);
+            window.Render();
+        }
+    }
+
+
+
 */
 IDictionary<string, int> fruitsForSale = new Dictionary<string, int>()
 {
