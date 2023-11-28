@@ -23,9 +23,9 @@ ConsoleGUI library: for mouse input
 using ConsoleGUI;
 using ConsoleGUI.Controls;
 using ConsoleGUI.Input;
-
+//TODO: 
 //more sophisticated alternatives: Windows Forms or WPF for desktop applications, or web-based technologies for web applications.
-
+//FIXME:
 
 EX///:
 
