@@ -18,11 +18,13 @@ Return the number of different bills and coins required
 
 
 
-ConsoleGUI library: this could 
+ConsoleGUI library: for mouse input
 
 using ConsoleGUI;
 using ConsoleGUI.Controls;
 using ConsoleGUI.Input;
+
+//more sophisticated alternatives: Windows Forms or WPF for desktop applications, or web-based technologies for web applications.
 
 
 EX///:
